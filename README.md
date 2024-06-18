@@ -1,5 +1,4 @@
-## Hi there 👋 It's me Ashan_LEO
-
+## Hi there 👋 It's me Pawan Sarathchandra
 Software Engineering Student @ Java Institute of Advanced Technology
 <img align="right" width="350" height="280" src="https://camo.githubusercontent.com/da9cb04bccedf52282c05a5efba11f04b1248085b5de97103fc6418bbb1cba03/68747470733a2f2f632e74656e6f722e636f6d2f55673663625641315a734d41414141642f646576656c6f7065722e676966">
 - 🔭 Here's my [portfolio] (currently under maintenance)                                       
@@ -12,7 +11,7 @@ Software Engineering Student @ Java Institute of Advanced Technology
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/pawan.sarathchandra.96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashanleox) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashan-sanchitha) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ashan_leo) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/pawan.sarathchandra.96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_pa_.one._/)[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tiktok.com%2F%40pa_one__%3F_t%3D8mXcAnovFGz%26_r%3D1%26fbclid%3DIwZXh0bgNhZW0CMTAAAR1nQwbxmgEz1xF_4nalqxFO2FvE2tobGHDA7hL9Px82vGaRN_khXcIjiwE_aem_YPSqig_aeIMYuZD-JIBxaw&h=AT0DcVUPmmVAafrmHVRCYguszNHNTFFnzgYN8KbUC_s0tfj68LD56VTdhyhaGUGCKXmXaPjba4qPVabp3lo6eZIzQ6T0aoA9_jtjnqGfRINNb-DT2Un5x04dcf-6s_OWen4l1Q) 
 
 # 💻 Tech Stack:
 ### Languages I Code In
@@ -56,6 +55,5 @@ Software Engineering Student @ Java Institute of Advanced Technology
 <img src='https://memer-new.vercel.app/' style="height:400px;"/>
 
 
-[![](https://visitcount.itsvg.in/api?id=AshanLEO&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
-  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
