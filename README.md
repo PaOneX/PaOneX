@@ -26,34 +26,7 @@ Software Engineering Student @ Java Institute of Advanced Technology
 ### Designs
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="50"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="50"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" />
 
- ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AshanLEO) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ashanleo) 
-
+ 
 
 # 📊 GitHub Stats:
 <div style="display:felx; justify-content: center; align-items: center;">
-
-![](https://github-readme-stats.vercel.app/api?username=PawanSarathchandra&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PawanSarathchandra&theme=monokai&hide_border=false)<br/>
-<br/>
-![]((https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSarathchandra&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PawanSarathchandra&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AshanLEO&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height:400px;"/>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
