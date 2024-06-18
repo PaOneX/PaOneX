@@ -6,7 +6,7 @@ Software Engineering Student @ Java Institute of Advanced Technology
 - 🧑‍🎓 I’m an Undergraduate at **JIAT**
 - 🤔 I’m a first-year student seeking guidance for future placements in top tech companies
 - 💬 Ask me about **Web development**
-- 📫 How to catch me **sarathchandrapawan@gmail.com**
+- 📫 How to catch me **opcmicrosoft@gmail.com**
 - ⚡ You can **Call me, Pawan**
 
 
