@@ -30,23 +30,6 @@ I am passionate about web development, coding, and continuous learning. As a fir
 ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)  
 ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
 
-### Frameworks & Libraries:
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)  
-![ChartJS](https://www.chartjs.org/media/logo-title.svg)
-
-### IDEs:
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-
-### Databases:
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-
-### Design Tools:
-![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)  
-![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)  
-![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-
-### Operating Systems:
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
 
 ---
 
