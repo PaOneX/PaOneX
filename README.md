@@ -25,10 +25,6 @@ I am passionate about web development, coding, and continuous learning. As a fir
 
 ## 💻 Tech Stack:
 
-### Languages:
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)  
-![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
 
 
 ---
