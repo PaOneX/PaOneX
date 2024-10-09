@@ -1,32 +1,56 @@
-## Hi there 👋 It's me Pawan Sarathchandra
-Software Engineering Student @ Java Institute of Advanced Technology
-<img align="right" width="350" height="280" src="https://camo.githubusercontent.com/da9cb04bccedf52282c05a5efba11f04b1248085b5de97103fc6418bbb1cba03/68747470733a2f2f632e74656e6f722e636f6d2f55673663625641315a734d41414141642f646576656c6f7065722e676966">
-- 🔭 Here's my [portfolio] (currently under maintenance)                                       
-- 💀 I’m currently learning **Coding**
-- 🧑‍🎓 I’m an Undergraduate at **JIAT**
-- 🤔 I’m a first-year student seeking guidance for future placements in top tech companies
-- 💬 Ask me about **Web development**
-- 📫 How to catch me **opcmicrosoft@gmail.com**
-- ⚡ You can **Call me, Pawan**
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/pawan.sarathchandra.96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_pa_.one._/)[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.tiktok.com%2F%40pa_one__%3F_t%3D8mXcAnovFGz%26_r%3D1%26fbclid%3DIwZXh0bgNhZW0CMTAAAR1nQwbxmgEz1xF_4nalqxFO2FvE2tobGHDA7hL9Px82vGaRN_khXcIjiwE_aem_YPSqig_aeIMYuZD-JIBxaw&h=AT0DcVUPmmVAafrmHVRCYguszNHNTFFnzgYN8KbUC_s0tfj68LD56VTdhyhaGUGCKXmXaPjba4qPVabp3lo6eZIzQ6T0aoA9_jtjnqGfRINNb-DT2Un5x04dcf-6s_OWen4l1Q) 
+## Hi there 👋 I'm **Pawan Sarathchandra**
 
-# 💻 Tech Stack:
-### Languages I Code In
-<img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50"  src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50"/> <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50" /> &nbsp; <img  height="50" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" /> 
+**Undergraduate Software Engineering Student @ Java Institute of Advanced Technology**  
+I am passionate about web development, coding, and continuous learning. As a first-year student, I’m eager to grow in my field and seek guidance to secure future placements at top tech companies.
 
-### Frameworks and Libraries &  IDEs
-<img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://www.chartjs.org/media/logo-title.svg" height="50" />
+<img align="right" width="350" height="280" src="https://camo.githubusercontent.com/da9cb04bccedf52282c05a5efba11f04b1248085b5de97103fc6418bbb1cba03/68747470733a2f2f632e74656e6f722e636f6d2f55673663625641315a734d41414141642f646576656c6f7065722e676966" />
 
-### Database
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" />
+- 🔭 I’m currently working on my [Portfolio] (Under Maintenance)  
+- 🌱 I’m actively learning **Web Development** and exploring new technologies  
+- 🧑‍🎓 First-year student seeking career advice for placement in top tech companies  
+- 💬 Ask me anything about **Web Development**  
+- 📫 Contact me at: **opcmicrosoft@gmail.com**  
+- ⚡ Fun Fact: You can just call me **Pawan**  
 
-### Designs
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="50"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="50"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" />
+---
 
- 
+## 🌐 Connect with Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/pawan.sarathchandra.96) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_pa_.one._/) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@pa_one__)
 
-# 📊 GitHub Stats:
-<div style="display:felx; justify-content: center; align-items: center;">
+---
+
+## 💻 Tech Stack:
+
+### Languages:
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)  
+![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
+
+### Frameworks & Libraries:
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)  
+![ChartJS](https://www.chartjs.org/media/logo-title.svg)
+
+### IDEs:
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+
+### Databases:
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+
+### Design Tools:
+![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)  
+![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)  
+![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
+
+### Operating Systems:
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+
+---
+
+## 📊 GitHub Stats:
+![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawansarathchandra&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawansarathchandra&layout=compact&theme=radical)
+
