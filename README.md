@@ -1,22 +1,33 @@
-<!-- Animated Header -->
+<!-- ================= GOD MODE BANNER ================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900"/>
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=750&lines=Hi+I'm+Pawan+Sarathchandra+👋;Software+Engineering+Undergraduate;Web+Developer+%7C+UI%2FUX+Enthusiast;Always+Learning+Always+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Pawan+Sarathchandra+👑;Software+Engineering+Undergraduate+at+ICET+Institute;Full+Stack+Web+Developer;UI%2FUX+Designer+%7C+Tech+Enthusiast;Welcome+to+My+Digital+Universe+🌌" />
 </h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PaoneX&label=Profile%20Views&style=for-the-badge&color=00F5FF" />
+  <img src="https://img.shields.io/github/followers/PaoneX?label=Followers&style=for-the-badge&color=7C4DFF" />
+  <img src="https://img.shields.io/github/stars/PaoneX?label=Total%20Stars&style=for-the-badge&color=FF00FF" />
+</p>
 
 ---
 
-## 👨‍💻 About Me  
+## 🧠 About Me  
 
 I’m **Pawan Sarathchandra**, a passionate **Software Engineering Undergraduate** at **ICET Institute – Panadura**.  
-I love building web applications, learning new technologies, and improving my problem-solving skills every day.  
-My goal is to become a professional developer and work at a top global tech company.
+I build futuristic web applications, design clean UI/UX, and continuously evolve my technical skills.
 
-- 🎓 Studying: **Software Engineering at ICET Institute (Panadura)**
+**Mission:** Become a world-class software engineer and build impactful digital products.
+
+- 🎓 Studying: **Software Engineering – ICET Institute (Panadura)**
 - 🌱 Learning: **Full Stack Web Development**
 - 🛠 Current Project: **Personal Portfolio Website**
 - 💬 Ask me about: **Java, PHP, Web Development**
 - 📧 Email: **sarathchandrapawan@gmail.com**
-- 🎯 Goal: **Join a global tech company**
+- 🎯 Goal: **Global Software Engineer**
 
 ---
 
@@ -24,10 +35,10 @@ My goal is to become a professional developer and work at a top global tech comp
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pawansarathchandra/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   <a href="https://www.facebook.com/share/1CQbGBJUNr/?mibextid=wwXIfr" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+    <img src="https://skillicons.dev/icons?i=facebook" height="50"/>
   </a>
 </p>
 
@@ -41,39 +52,39 @@ My goal is to become a professional developer and work at a top global tech comp
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Performance  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PaoneX&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=PaoneX&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PaoneX&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=PaoneX&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoneX&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PaoneX&theme=onestar&no-frame=true&margin-w=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoneX&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Activity Graph  
+## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaoneX&theme=github-compact&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PaoneX&theme=algolia&no-frame=true&margin-w=12" />
 </p>
 
 ---
 
-## ✍️ Quote of the Day  
+## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaoneX&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## ✍️ Daily Inspiration  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -86,16 +97,26 @@ My goal is to become a professional developer and work at a top global tech comp
 
 ---
 
-## 👁️ Profile Views  
+
+
+## ⚡ Skill Power Levels  
+
+```text
+HTML        ██████████ 95%
+CSS         █████████  90%
+JavaScript  ████████   80%
+Java        ████████   80%
+PHP         ███████    75%
+MySQL       ████████   80%
+UI/UX       ████████   80%
+Git/GitHub  ████████   85%
+```
+## 🌟 Final Note  
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PaoneX&label=Profile%20Views&color=0A66C2&icon=5&pretty=true" />
+  <b>“Code with passion. Learn with purpose. Build for the future.”</b> 🚀  
 </p>
 
----
-
-## ⭐ Thank You for Visiting My Profile!  
-
 <p align="center">
-  <b>“Code. Learn. Build. Repeat.”</b> 🚀  
+  ⭐ Thank you for visiting my profile! ⭐
 </p>
